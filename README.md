@@ -1,4 +1,4 @@
 snomed_tools
 ============
 
-SNOMED Clinical Terms software tools
+SNOMED CT software tools
